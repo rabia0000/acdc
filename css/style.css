@@ -1,0 +1,20 @@
+img[alt="image"]{
+    height: 160px;
+    width: 160px;
+}
+
+
+body{
+    background: repeating-linear-gradient(
+  120deg,
+  black,
+  black 800px,
+  red 800px,
+  red 1600px
+);
+}
+
+.memberCards{
+    height: 10rem;
+    width: 10rem;
+}
